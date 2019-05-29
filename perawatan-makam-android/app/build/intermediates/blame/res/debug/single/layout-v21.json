@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\otnieloo\\Downloads\\mahasiswa-app-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\otnieloo\\.android\\build-cache\\4bd840c907c490868fa9129ff3a14ecb142afd6c\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\otnieloo\\Downloads\\mahasiswa-app-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\otnieloo\\.android\\build-cache\\4bd840c907c490868fa9129ff3a14ecb142afd6c\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\otnieloo\\Downloads\\mahasiswa-app-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\otnieloo\\.android\\build-cache\\4bd840c907c490868fa9129ff3a14ecb142afd6c\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\otnieloo\\Downloads\\mahasiswa-app-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\otnieloo\\.android\\build-cache\\4bd840c907c490868fa9129ff3a14ecb142afd6c\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

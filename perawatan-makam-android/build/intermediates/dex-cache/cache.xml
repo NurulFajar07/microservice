@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\otnieloo\.android\build-cache\b1a153047f3d0db058be39a10fd0d5b3a72b7f19\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\pre-dexed\debug\classes_26872b83e0b68ac1a996e4a595fe802227d7ac4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otnieloo\.android\build-cache\ba140756423d618923dbeaedd7e561c8d8de95f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\pre-dexed\debug\classes_5aaac2a847ec50fcb2baf3df30d7526041bf8009.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otnieloo\.android\build-cache\d3e05a68d22f791b4a1e0a7db11d578444cd918c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\pre-dexed\debug\classes_ff983d3f3066012fa5694390b1e1f5ba4053aec6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otnieloo\.android\build-cache\b4fc5a69b149a01f38a367a41b41c64dfc13c636\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\pre-dexed\debug\classes_b724b315c31676d4d115d02d5352c371dd01ffa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otnieloo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.1\381fc1096ba65040d8e80ea43b2e1d9bad02345e\logging-interceptor-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.4.1_90a92421a4f08cdff16b0b571de461d02e17013f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otnieloo\.android\build-cache\4bd840c907c490868fa9129ff3a14ecb142afd6c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\pre-dexed\debug\classes_aeba3aa822f4e10904349150f090d1938a2fb843.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otnieloo\.android\build-cache\5c264e3c634eeda2e80f0d6c3e57b7e536504c11\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\pre-dexed\debug\classes_f5bca13929bb35511472fd19f16b44939582363e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otnieloo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\pre-dexed\debug\okio-1.9.0_3cb213275ba325c445845749f8ff91c9fc2a0965.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otnieloo\.android\build-cache\0e670fae42bcbed2895a4851a5f8fb002b555f3e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\pre-dexed\debug\classes_ad71edbc060ba01d2588aef0056181e6caafeb4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otnieloo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_e8dcb4b888f540b4503bf6d902341555fd524ccb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otnieloo\.android\build-cache\350c60a6a836b79cb99d358755a9ee55771cef98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\pre-dexed\debug\classes_c33371c26c70d7bdb73bc29b0897fb9721c812d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otnieloo\.android\build-cache\dd49a9b80768e13103e22bc9f710c8486bfdd75f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\pre-dexed\debug\classes_fae6d2fa87223cf5379eb92e13ec0201b3c2eae7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otnieloo\.android\build-cache\58c2af90bd327f06983c512e83a9d6303da572ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\pre-dexed\debug\classes_3acd8247312d8b0385828694f5a84b1765f09199.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otnieloo\.android\build-cache\7ff1a7eb40c6324417cd1442f6e0bf4e2ed6906f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\pre-dexed\debug\classes_ac54ae538185600f406b5c69fb2054fa8c007ae7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c5e1dd35224bf8ed0ef2713b355b771d20cef57f">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9651166ca59298aa681073b1de5b39aaa95f8458\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otnieloo\.android\build-cache\796451d339249bef97aaf4bdd8340ec86902aefa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\pre-dexed\debug\classes_0e416e90d7bcd3c41055448c3a51d7b8fbeb5061.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otnieloo\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_ede623e4fddf0ca404adcf0bfbae0645318c0eac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otnieloo\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.2_db5f16dc49f280018fd86f9661dbe7f2dfebcca2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otnieloo\.android\build-cache\d8eaacc0d7ec34411f434217c32e63a082bd5a88\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\pre-dexed\debug\classes_aba36d255567f2e1c528f0e9d6cea3e2bbe0e51d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otnieloo\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\pre-dexed\debug\retrofit-2.0.2_4389a3014c9732ba603466d62ec926cda4fbbddd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otnieloo\.android\build-cache\3d5ebf5b88d5cdf6017d47cd2ca3f5b9b67131b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\pre-dexed\debug\classes_d4d52eff810c7cf07b2ff18811b2f43ad7b989d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otnieloo\.android\build-cache\ca8289cf2c3d3b2d0543250801818acb8ac29229\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\pre-dexed\debug\classes_e9124c8c645fe8c372a94e4ad06811438b26db23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otnieloo\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.5.1_439a24c771e8c61dead6ea7799d0bf8eec6eea2a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_43b8ccc1ae4ade6bd2cc5fd2be09e697afc613bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otnieloo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\pre-dexed\debug\gson-2.6.1_98a33a4249fbe09d8a7eb382314992405c4b9e94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otnieloo\.android\build-cache\4f3d735c8828104ff1ed68713ab66fcfcf71e065\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\pre-dexed\debug\classes_6b0741c7097c5d02ef44f5eb9ba109426e6080c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\otnieloo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\otnieloo\Downloads\mahasiswa-app-android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_fa17e5fb3a7bdb0db17b5cb0768af3d447aa4ab9.jar" />
+    </item>
+
+</items>

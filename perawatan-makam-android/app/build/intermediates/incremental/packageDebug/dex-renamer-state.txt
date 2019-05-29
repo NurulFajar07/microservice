@@ -1,0 +1,7 @@
+#Tue May 28 10:40:15 ICT 2019
+base.0=C\:\\Users\\otnieloo\\Downloads\\mahasiswa-app-android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_43b8ccc1ae4ade6bd2cc5fd2be09e697afc613bf
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\otnieloo\\Downloads\\mahasiswa-app-android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9651166ca59298aa681073b1de5b39aaa95f8458\\classes.dex
+base.1=C\:\\Users\\otnieloo\\Downloads\\mahasiswa-app-android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9651166ca59298aa681073b1de5b39aaa95f8458
+file.0=C\:\\Users\\otnieloo\\Downloads\\mahasiswa-app-android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_43b8ccc1ae4ade6bd2cc5fd2be09e697afc613bf\\classes.dex

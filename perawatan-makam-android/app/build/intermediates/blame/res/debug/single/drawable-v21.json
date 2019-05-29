@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\otnieloo\\Downloads\\mahasiswa-app-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\otnieloo\\.android\\build-cache\\7ff1a7eb40c6324417cd1442f6e0bf4e2ed6906f\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\otnieloo\\Downloads\\mahasiswa-app-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\otnieloo\\.android\\build-cache\\7ff1a7eb40c6324417cd1442f6e0bf4e2ed6906f\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\otnieloo\\Downloads\\mahasiswa-app-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\otnieloo\\.android\\build-cache\\7ff1a7eb40c6324417cd1442f6e0bf4e2ed6906f\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\otnieloo\\Downloads\\mahasiswa-app-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\otnieloo\\.android\\build-cache\\4bd840c907c490868fa9129ff3a14ecb142afd6c\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\otnieloo\\Downloads\\mahasiswa-app-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\otnieloo\\.android\\build-cache\\4bd840c907c490868fa9129ff3a14ecb142afd6c\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\otnieloo\\Downloads\\mahasiswa-app-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\otnieloo\\.android\\build-cache\\7ff1a7eb40c6324417cd1442f6e0bf4e2ed6906f\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\otnieloo\\Downloads\\mahasiswa-app-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\otnieloo\\.android\\build-cache\\4bd840c907c490868fa9129ff3a14ecb142afd6c\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\otnieloo\\Downloads\\mahasiswa-app-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\otnieloo\\.android\\build-cache\\4bd840c907c490868fa9129ff3a14ecb142afd6c\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    }
+]
